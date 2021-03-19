@@ -1,0 +1,156 @@
+/*---- ----*/
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+.header{
+width: 100%;
+border-bottom: 3px solid #EEF0F3;
+}
+.bg-light {
+    background-color: #fff!important;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.row{
+  width: 100%;
+
+}
+.logo1{
+	width: 60%;
+float: left;
+}
+.menu{
+width: 40%;
+float: left;
+}
+
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 10px 0px 0px 26px;
+}
+.menu ul li a{
+	color: #292660;
+	font-size: 16px;
+    text-transform: uppercase;
+    margin: 20% 0% 0% 0%;
+
+    
+}
+/*---- banner----*/
+#banner{
+	text-align: center;
+	    padding: 0px 0px 12px 0px;
+
+}
+.banner h1{
+       color: ##000000;
+       text-align: center;
+       margin-top: 40px;
+       
+}
+.banner span {
+       color: #008AFF;
+       padding-top: 8px;
+}
+.banner p{
+	text-align: center;
+	    padding-top: 8px;
+    color: #71859C;
+    font-size: 17px;
+}
+
+	
+	
+/*---- user----*/
+.user img{
+	width: 554px;
+	
+	display: block;
+	margin-left: 30%;
+
+
+
+}
+
+
+
+
+
+/*----k+ ----*/
+#lorem{
+
+}
+.lorem h1{
+text-align: right;
+color: #F15767;
+font-size: 318%;
+}
+.lorem p{
+text-align: right;
+color: #71859C;
+    font-size: 20px;
+}
+.lorem h2{
+text-align: left;
+color: #0F2656;
+    font-size: 318%;
+}
+
+/*---- ----*/
+#im{
+	text-align: center;
+
+
+}
+.im1{
+	background-color: #FDEBED;
+	width: 330px;
+	margin: 10px 10px
+
+}
+.im2{
+	background-color: #EBF9F4;
+	width: 330px;
+	margin: 10px 10px
+	
+}
+.im3{
+	background-color:  #FFF7E8;
+	width: 330px;
+	margin: 10px 10px
+}
+
+.im h3{
+	color: #485BA1;
+
+}
+.im p{
+color: #485BA1;
+}
+
+/*----futer ----*/
+.futer{
+	text-align: center;
+	background-color: #008AFF;
+}
+.futer p{
+	 color: rgb(113, 199, 255);
+	 padding: 24px 0px;
+}
+.futer p a{
+	font-size: 20px; 
+	color:#ffff;
+}
+
+
+/*---- ----*/
+
+
